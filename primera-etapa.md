@@ -13,37 +13,33 @@ Primero revisar todos los accesos directos del escritorio.
 Clasificación:
 
 ## Mantener 🟢
-
-Elementos utilizados frecuentemente:
-
-* Herramientas de desarrollo.
-* Programas de ingeniería.
-* Accesos importantes.
-
-Ejemplos:
-
-* VS Code.
-* GitHub Desktop.
-* MATLAB.
-* KiCad.
+- Documentos 
+* Vs code
+* Vs code studio 2022
+* MATLAB
+*Kicad
+- Escritorio
+* Github Desktop
+* Chrome
+* Edge
+* Treesize Free
+- Descargas
+* Github Desktop
+* Docker Desktop
+* MATLABS (Ambas versiones)
+* VS Studio
+* Kaspersky
+* Git-2.51.0-64-bit
+* Windows 11
+* Mediacreationtool
 
 ## Revisar 🟡
-
-Elementos que podrían ser útiles, pero no se usan constantemente.
-
-Ejemplos:
-
-* Programas instalados para una materia.
-* Herramientas ocasionales.
+* Linux
 
 ## Eliminar 🔴
 
-Elementos innecesarios:
-
-* Accesos duplicados.
-* Instaladores.
-* Juegos que no se utilizan.
-* Archivos temporales.
+* Capturas de pantalla de hace meses incluso años
+* Documentos de laboratorios pasados desorganizados
 
 ---
 
@@ -51,31 +47,7 @@ Elementos innecesarios:
 
 Antes de desinstalar, clasificar cada programa.
 
-## Herramientas esenciales 🟢
-
-Mantener:
-
-* Software académico.
-* Herramientas de programación.
-* Drivers.
-* Software relacionado con proyectos.
-
-## Programas de uso ocasional 🟡
-
-Evaluar:
-
-* ¿Lo utilicé en los últimos 6 meses?
-* ¿Tiene una función importante?
-* ¿Podría necesitarlo después?
-
-## Programas innecesarios 🔴
-
-Eliminar:
-
-* Programas olvidados.
-* Aplicaciones instaladas por pruebas.
-* Software que consume recursos sin aportar.
-
+Listo
 ---
 
 # Fase 3 — Organización de archivos
@@ -86,24 +58,8 @@ Revisar:
 * Descargas.
 * Documentos.
 * Carpetas personales.
-
-Clasificar:
-
-## Proyectos
-
-Guardar trabajos importantes.
-
-## Recursos
-
-Documentos, libros, imágenes y material de estudio.
-
-## Archivo
-
-Información antigua que se desea conservar.
-
-## Eliminación
-
-Archivos duplicados o sin utilidad.
+- Listo
+<img width="952" height="700" alt="image" src="https://github.com/user-attachments/assets/bad63827-911b-4cbe-8f12-d2a9f07b901a" />
 
 ---
 
@@ -116,8 +72,10 @@ Preguntas:
 * ¿Necesito que inicie con Windows?
 * ¿Afecta el rendimiento?
 * ¿Puedo abrirlo manualmente?
+<img width="945" height="1078" alt="image" src="https://github.com/user-attachments/assets/9e9542de-93e5-457f-ba0d-424df2669d1e" />
 
 Desactivar programas innecesarios.
+
 
 ---
 
@@ -138,9 +96,13 @@ Eliminar:
 Después de la limpieza responder:
 
 1. ¿El computador funciona correctamente?
+- Si
 2. ¿El rendimiento mejoró?
+- Toca comprobarlo
 3. ¿Todavía existe mucho desorden?
+- Esta mas ordenado
 4. ¿Vale la pena realizar una instalación limpia de Windows?
+- No
 
 Si la respuesta es sí, considerar Operación Génesis.
 
