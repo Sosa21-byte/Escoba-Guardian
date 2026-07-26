@@ -108,7 +108,7 @@ Si la respuesta es sí, considerar Operación Génesis.
 
 ---
 
-# Regla de Escoba Guardián
+# Decisiones tomadas
 
 No borrar por impulso.
 
@@ -117,3 +117,11 @@ Primero entender qué es.
 Después decidir.
 
 La limpieza debe mejorar el sistema, no destruir información útil.
+
+---
+
+# Resultados
+* Organizacion del pc para inicio del proyecto 
+* Optimizacion visual
+* Eficiencia aumentada
+  
