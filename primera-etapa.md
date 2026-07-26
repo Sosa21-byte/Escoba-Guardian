@@ -99,11 +99,11 @@ Desactivar programas innecesarios.
 
 Eliminar:
 
-* Archivos temporales.
-* Cachés innecesarias.
-* Instaladores antiguos.
-* Descargas olvidadas.
-* Archivos duplicados.
+* Archivos temporales eliminados.
+* Cachés innecesarias eliminadas.
+* Instaladores antiguos optimizados.
+* Descargas olvidadas eliminadas.
+* Archivos duplicados eliminados.
 
 ---
 
@@ -140,4 +140,18 @@ La limpieza debe mejorar el sistema, no destruir información útil.
 * Organizacion del pc para inicio del proyecto 
 * Optimizacion visual
 * Eficiencia aumentada
-  
+
+  ---
+
+# Lecciones aprendidas
+
+Durante la Operación Escoba Guardián se aprendió:
+
+- La importancia de organizar un entorno antes de iniciar un proyecto.
+- La diferencia entre eliminar y comprender.
+- La necesidad de documentar cambios.
+- La importancia de mantener herramientas necesarias para ingeniería.
+
+Estado final:
+
+El computador queda preparado como estación de desarrollo para el Proyecto Personal.
