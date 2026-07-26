@@ -45,9 +45,25 @@ Clasificación:
 
 # Fase 2 — Auditoría de programas instalados
 
-Antes de desinstalar, clasificar cada programa.
+Programas revisados:
 
-Listo
+- Herramientas de ingeniería:
+  - MATLAB
+  - KiCad
+  - Visual Studio
+
+- Herramientas de desarrollo:
+  - VS Code
+  - Git
+  - GitHub Desktop
+  - Docker Desktop
+
+- Seguridad:
+  - Kaspersky
+
+Resultado:
+No se eliminaron herramientas críticas para el desarrollo.
+
 ---
 
 # Fase 3 — Organización de archivos
